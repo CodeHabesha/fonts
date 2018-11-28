@@ -1,5 +1,9 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/ha-ethiopic",
+"/laa-ethiopic"
+);
 copyright = "Copyright © 2018 by Fasil Fikreab. All rights reserved.";
 customParameters = (
 {
