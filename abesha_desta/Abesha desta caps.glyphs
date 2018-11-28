@@ -549,7 +549,7 @@ currency
 date = "2018-11-23 22:43:20 +0000";
 designer = "Fasil Fikreab";
 disablesNiceNames = 1;
-familyName = "Abesha Desta";
+familyName = "Abesha Desta Caps";
 featurePrefixes = (
 {
 automatic = 1;
@@ -71452,11 +71452,11 @@ instances = (
 customParameters = (
 {
 name = postscriptFullName;
-value = "Abesha Desta";
+value = "Abesha Desta Caps";
 },
 {
 name = postscriptFontName;
-value = AbeshaDesta;
+value = AbeshaDestaCaps;
 }
 );
 instanceInterpolations = {
