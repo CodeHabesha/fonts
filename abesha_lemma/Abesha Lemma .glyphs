@@ -162,7 +162,9 @@ DisplayStrings = (
 " ",
 "/kxa-ethiopic",
 "/ha-ethiopic",
-"/wu-ethiopic"
+"/wu-ethiopic",
+"/ke-ethiopic",
+"/he-ethiopic"
 );
 copyright = "Copyright © 2018 by fasil fikreab. All rights reserved.";
 customParameters = (
@@ -39462,7 +39464,7 @@ unicode = 1204;
 },
 {
 glyphname = "he-ethiopic";
-lastChange = "2019-03-11 07:10:32 +0000";
+lastChange = "2019-03-11 20:03:29 +0000";
 layers = (
 {
 layerId = "994FE389-9D54-4FAA-B055-C46A67020E78";
@@ -39470,14 +39472,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"114 360 LINE",
-"70 171 LINE SMOOTH",
-"60 128 OFFCURVE",
-"73 94 OFFCURVE",
-"93 61 CURVE SMOOTH",
-"122 11 OFFCURVE",
-"207 -8 OFFCURVE",
-"284 -8 CURVE SMOOTH",
 "333 -8 OFFCURVE",
 "408 -4 OFFCURVE",
 "458 40 CURVE SMOOTH",
@@ -39497,18 +39491,29 @@ nodes = (
 "192 80 OFFCURVE",
 "175 113 CURVE SMOOTH",
 "167 129 OFFCURVE",
-"155 151 OFFCURVE",
+"152 152 OFFCURVE",
 "162 179 CURVE SMOOTH",
-"206 359 LINE"
+"213 323 LINE SMOOTH",
+"220 343 OFFCURVE",
+"207 359 OFFCURVE",
+"187 359 CURVE SMOOTH",
+"134 360 LINE",
+"70 171 LINE SMOOTH",
+"56 130 OFFCURVE",
+"73 94 OFFCURVE",
+"93 61 CURVE SMOOTH",
+"122 11 OFFCURVE",
+"207 -8 OFFCURVE",
+"284 -8 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"152 337 LINE",
 "152 530 LINE",
 "60 530 LINE",
-"60 338 LINE"
+"60 338 LINE",
+"152 337 LINE"
 );
 }
 );
@@ -39520,14 +39525,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"80 360 LINE",
-"49 171 LINE SMOOTH",
-"42 128 OFFCURVE",
-"53 93 OFFCURVE",
-"65 61 CURVE SMOOTH",
-"85 11 OFFCURVE",
-"146 -8 OFFCURVE",
-"199 -8 CURVE SMOOTH",
 "230 -8 OFFCURVE",
 "286 -4 OFFCURVE",
 "320 39 CURVE SMOOTH",
@@ -39547,18 +39544,29 @@ nodes = (
 "134 80 OFFCURVE",
 "123 112 CURVE SMOOTH",
 "117 128 OFFCURVE",
-"108 151 OFFCURVE",
+"105 151 OFFCURVE",
 "113 179 CURVE SMOOTH",
-"144 359 LINE"
+"154 325 LINE SMOOTH",
+"159 344 OFFCURVE",
+"147 360 OFFCURVE",
+"129 360 CURVE SMOOTH",
+"100 360 LINE",
+"49 171 LINE SMOOTH",
+"38 129 OFFCURVE",
+"53 93 OFFCURVE",
+"65 61 CURVE SMOOTH",
+"85 11 OFFCURVE",
+"146 -8 OFFCURVE",
+"199 -8 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"106 337 LINE",
 "106 530 LINE",
 "42 530 LINE",
-"42 338 LINE"
+"42 338 LINE",
+"106 337 LINE"
 );
 }
 );
@@ -51638,7 +51646,7 @@ unicode = 12A5;
 },
 {
 glyphname = "oGlottal-ethiopic";
-lastChange = "2019-03-11 07:10:32 +0000";
+lastChange = "2019-03-11 20:04:23 +0000";
 layers = (
 {
 components = (
@@ -51651,10 +51659,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"154 81 LINE",
-"154 -182 LINE",
-"243 -182 LINE",
-"243 85 LINE"
+"153 82 LINE",
+"153 -181 LINE",
+"242 -181 LINE",
+"242 86 LINE"
 );
 }
 );
@@ -51672,14 +51680,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"107 81 LINE",
-"107 -182 LINE",
-"169 -182 LINE",
-"169 85 LINE"
+"117 81 LINE",
+"117 -182 LINE",
+"179 -182 LINE",
+"179 85 LINE"
 );
 }
 );
-width = 424;
+width = 454;
 }
 );
 note = uni12A6;
@@ -51990,7 +51998,7 @@ unicode = 12AC;
 },
 {
 glyphname = "ke-ethiopic";
-lastChange = "2019-03-11 07:10:32 +0000";
+lastChange = "2019-03-11 20:02:08 +0000";
 layers = (
 {
 layerId = "994FE389-9D54-4FAA-B055-C46A67020E78";
@@ -52021,10 +52029,13 @@ nodes = (
 "116 396 OFFCURVE",
 "116 362 CURVE SMOOTH",
 "116 264 LINE",
-"150 264 LINE",
+"180 264 LINE",
 "122 0 LINE",
 "204 0 LINE",
-"240 343 LINE",
+"264 312 LINE SMOOTH",
+"267 330 OFFCURVE",
+"255 343 OFFCURVE",
+"238 343 CURVE SMOOTH",
 "208 343 LINE",
 "208 345 LINE SMOOTH",
 "208 373 OFFCURVE",
@@ -52074,10 +52085,13 @@ nodes = (
 "81 395 OFFCURVE",
 "81 362 CURVE SMOOTH",
 "81 264 LINE",
-"105 264 LINE",
+"135 264 LINE",
 "85 0 LINE",
 "143 0 LINE",
-"168 343 LINE",
+"202 312 LINE SMOOTH",
+"205 329 OFFCURVE",
+"194 343 OFFCURVE",
+"177 343 CURVE SMOOTH",
 "146 343 LINE",
 "146 345 LINE SMOOTH",
 "146 374 OFFCURVE",
@@ -119669,7 +119683,7 @@ unicode = 1361;
 },
 {
 glyphname = space;
-lastChange = "2019-03-11 07:10:33 +0000";
+lastChange = "2019-03-11 19:55:44 +0000";
 layers = (
 {
 layerId = "994FE389-9D54-4FAA-B055-C46A67020E78";
@@ -119677,7 +119691,7 @@ width = 400;
 },
 {
 layerId = "CBA2E3C4-6E62-469B-BD2C-D62FAD87CF88";
-width = 270;
+width = 200;
 }
 );
 unicode = 0020;
