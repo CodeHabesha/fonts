@@ -157,7 +157,8 @@ A,
 "/jee-ethiopic",
 "/je-ethiopic",
 "/jo-ethiopic",
-"/jwa-ethiopic"
+"/jwa-ethiopic",
+"/sze-ethiopic"
 );
 copyright = "Copyright © 2018 by fasil fikreab. All rights reserved.";
 customParameters = (
@@ -42507,7 +42508,7 @@ unicode = 1237;
 },
 {
 glyphname = "sha-ethiopic";
-lastChange = "2019-03-13 21:31:43 +0000";
+lastChange = "2019-03-13 21:58:41 +0000";
 layers = (
 {
 anchors = (
@@ -42534,6 +42535,19 @@ name = hat;
 position = "{78, 696}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"63 759 LINE",
+"260 759 LINE",
+"260 801 LINE",
+"63 801 LINE"
+);
+}
+);
+};
 components = (
 {
 name = "sa-ethiopic";
