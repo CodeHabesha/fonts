@@ -1,114 +1,7 @@
 {
-.appVersion = "1141";
+.appVersion = "1192";
 DisplayStrings = (
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
 "/ha-ethiopic/hu-ethiopic/hi-ethiopic/haa-ethiopic/hee-ethiopic/he-ethiopic/ho-ethiopic/hoa-ethiopic/la-ethiopic/lu-ethiopic/li-ethiopic/laa-ethiopic/lee-ethiopic/le-ethiopic/lo-ethiopic/lwa-ethiopic/hha-ethiopic/hhu-ethiopic/hhi-ethiopic/hhaa-ethiopic/hhee-ethiopic/hhe-ethiopic/hho-ethiopic/hhwa-ethiopic/ma-ethiopic/mu-ethiopic/mi-ethiopic/maa-ethiopic/mee-ethiopic/me-ethiopic/mo-ethiopic/mwa-ethiopic/sza-ethiopic/szu-ethiopic/szi-ethiopic/szaa-ethiopic/szee-ethiopic/sze-ethiopic/szo-ethiopic/szwa-ethiopic/ra-ethiopic/ru-ethiopic/ri-ethiopic/raa-ethiopic/ree-ethiopic/re-ethiopic/ro-ethiopic/rwa-ethiopic/sa-ethiopic/su-ethiopic/si-ethiopic/saa-ethiopic/see-ethiopic/se-ethiopic/so-ethiopic/swa-ethiopic/sha-ethiopic/shu-ethiopic/shi-ethiopic/shaa-ethiopic/shee-ethiopic/she-ethiopic/sho-ethiopic/shwa-ethiopic/qa-ethiopic/qu-ethiopic/qi-ethiopic/qaa-ethiopic/qee-ethiopic/qe-ethiopic/qo-ethiopic/qoa-ethiopic/qwa-ethiopic/qwaa-ethiopic/ba-ethiopic/bu-ethiopic/bi-ethiopic/baa-ethiopic/bee-ethiopic/be-ethiopic/bo-ethiopic/bwa-ethiopic/va-ethiopic/vu-ethiopic/vi-ethiopic/vaa-ethiopic/vee-ethiopic/ve-ethiopic/vo-ethiopic/vwa-ethiopic/ta-ethiopic/tu-ethiopic/ti-ethiopic/taa-ethiopic/tee-ethiopic/te-ethiopic/to-ethiopic/twa-ethiopic/ca-ethiopic/cu-ethiopic/ci-ethiopic/caa-ethiopic/cee-ethiopic/ce-ethiopic/co-ethiopic/cwa-ethiopic/xa-ethiopic/xu-ethiopic/xi-ethiopic/xaa-ethiopic/xee-ethiopic/xe-ethiopic/xo-ethiopic/xoa-ethiopic/na-ethiopic/nu-ethiopic/ni-ethiopic/naa-ethiopic/nee-ethiopic/ne-ethiopic/no-ethiopic/nwa-ethiopic/nya-ethiopic/nyu-ethiopic/nyi-ethiopic/nyaa-ethiopic/nyee-ethiopic/nye-ethiopic/nyo-ethiopic/nywa-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/kee-ethiopic/ke-ethiopic/ko-ethiopic/koa-ethiopic/kwaa-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwaa-ethiopic/kxwee-ethiopic/kxwe-ethiopic/wa-ethiopic/wu-ethiopic/wi-ethiopic/waa-ethiopic/wee-ethiopic/we-ethiopic/wo-ethiopic/woa-ethiopic/aPharyngeal-ethiopic/uPharyngeal-ethiopic/iPharyngeal-ethiopic/aaPharyngeal-ethiopic/eePharyngeal-ethiopic/ePharyngeal-ethiopic/oPharyngeal-ethiopic/za-ethiopic/zu-ethiopic/zi-ethiopic/zaa-ethiopic/zee-ethiopic/ze-ethiopic/zo-ethiopic/zwa-ethiopic/zha-ethiopic/zhu-ethiopic/zhi-ethiopic/zhaa-ethiopic/zhee-ethiopic/zhe-ethiopic/zho-ethiopic/zhwa-ethiopic/ya-ethiopic/yu-ethiopic/yi-ethiopic/yaa-ethiopic/yee-ethiopic/ye-ethiopic/yo-ethiopic/yoa-ethiopic/da-ethiopic/du-ethiopic/di-ethiopic/daa-ethiopic/dee-ethiopic/de-ethiopic/do-ethiopic/dwa-ethiopic/ja-ethiopic/ju-ethiopic/ji-ethiopic/jaa-ethiopic/jee-ethiopic/je-ethiopic/jo-ethiopic/jwa-ethiopic/ga-ethiopic/gu-ethiopic/gi-ethiopic/gaa-ethiopic/gee-ethiopic/ge-ethiopic/go-ethiopic/goa-ethiopic/gwaa-ethiopic/tha-ethiopic/thu-ethiopic/thi-ethiopic/thaa-ethiopic/thee-ethiopic/the-ethiopic/tho-ethiopic/thwa-ethiopic/cha-ethiopic/chu-ethiopic/chi-ethiopic/chaa-ethiopic/chee-ethiopic/che-ethiopic/cho-ethiopic/chwa-ethiopic/pha-ethiopic/phu-ethiopic/phi-ethiopic/phaa-ethiopic/phee-ethiopic/phe-ethiopic/pho-ethiopic/phwa-ethiopic/tsa-ethiopic/tsu-ethiopic/tsi-ethiopic/tsaa-ethiopic/tsee-ethiopic/tse-ethiopic/tso-ethiopic/tswa-ethiopic/tza-ethiopic/tzu-ethiopic/tzi-ethiopic/tzaa-ethiopic/tzee-ethiopic/tze-ethiopic/tzo-ethiopic/tzoa-ethiopic/fa-ethiopic/fu-ethiopic/fi-ethiopic/faa-ethiopic/fee-ethiopic/fe-ethiopic/fo-ethiopic/fwa-ethiopic/pa-ethiopic/pu-ethiopic/pi-ethiopic/paa-ethiopic/pee-ethiopic/pe-ethiopic/po-ethiopic/pwa-ethiopic/rya-ethiopic/mya-ethiopic/fya-ethiopic",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
 "/ka-ethiopic",
 "/aGlottal-ethiopic",
 "/uGlottal-ethiopic",
@@ -118,28 +11,15 @@ DisplayStrings = (
 "/eGlottal-ethiopic",
 "/oGlottal-ethiopic",
 "/waGlottal-ethiopic",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
 "/ri-ethiopic",
-"",
-"",
 "/ra-ethiopic",
 "/ha-ethiopic",
-"",
-"",
-"",
-"",
-"",
 "/gu-ethiopic",
-"",
 "/ra-ethiopic",
-"",
-""
+"/faa-ethiopic",
+"/fu-ethiopic",
+"/fi-ethiopic",
+"/fa-ethiopic"
 );
 copyright = "Copyright © 1990 by Fasil Fikreab 2018 / 2011 ET. All rights reserved.";
 customParameters = (
@@ -36088,7 +35968,7 @@ unicode = 1347;
 },
 {
 glyphname = "fa-ethiopic";
-lastChange = "2018-11-15 20:43:09 +0000";
+lastChange = "2019-03-19 03:29:08 +0000";
 layers = (
 {
 layerId = "91004FFB-2E8A-4290-ADD0-E71DD0A9BF8D";
@@ -36097,8 +35977,8 @@ paths = (
 closed = 1;
 nodes = (
 "200 0 LINE",
-"1116 0 LINE",
-"1116 173 LINE",
+"1196 0 LINE",
+"1196 173 LINE",
 "394 173 LINE",
 "394 1466 LINE",
 "200 1466 LINE"
@@ -36108,8 +35988,8 @@ nodes = (
 closed = 1;
 nodes = (
 "200 0 LINE",
-"1116 0 LINE",
-"1116 173 LINE",
+"1196 0 LINE",
+"1196 173 LINE",
 "394 173 LINE",
 "394 1466 LINE",
 "200 1466 LINE"
@@ -36118,12 +35998,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"960 938 LINE",
+"970 938 LINE",
 "224 938 LINE",
 "224 765 LINE",
-"766 765 LINE",
-"766 0 LINE",
-"960 0 LINE"
+"776 765 LINE",
+"776 0 LINE",
+"970 0 LINE"
 );
 }
 );
@@ -36134,7 +36014,7 @@ unicode = 1348;
 },
 {
 glyphname = "fu-ethiopic";
-lastChange = "2018-11-15 20:43:10 +0000";
+lastChange = "2019-03-19 03:28:05 +0000";
 layers = (
 {
 layerId = "91004FFB-2E8A-4290-ADD0-E71DD0A9BF8D";
@@ -36143,8 +36023,8 @@ paths = (
 closed = 1;
 nodes = (
 "200 330 LINE",
-"1116 330 LINE",
-"1116 503 LINE",
+"1216 330 LINE",
+"1216 503 LINE",
 "394 503 LINE",
 "394 1466 LINE",
 "200 1466 LINE"
@@ -36153,12 +36033,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"877 977 LINE",
-"200 977 LINE",
-"200 804 LINE",
-"683 804 LINE",
-"683 0 LINE",
-"877 0 LINE"
+"1067 1057 LINE",
+"390 1057 LINE",
+"390 884 LINE",
+"873 884 LINE",
+"873 0 LINE",
+"1067 0 LINE"
 );
 }
 );
@@ -36169,7 +36049,7 @@ unicode = 1349;
 },
 {
 glyphname = "fi-ethiopic";
-lastChange = "2018-11-15 20:43:11 +0000";
+lastChange = "2019-03-19 03:28:29 +0000";
 layers = (
 {
 layerId = "91004FFB-2E8A-4290-ADD0-E71DD0A9BF8D";
@@ -36178,8 +36058,8 @@ paths = (
 closed = 1;
 nodes = (
 "200 330 LINE",
-"1116 330 LINE",
-"1116 503 LINE",
+"1386 330 LINE",
+"1386 503 LINE",
 "394 503 LINE",
 "394 1466 LINE",
 "200 1466 LINE"
@@ -36188,41 +36068,41 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"769 804 LINE",
-"573 804 LINE",
-"573 0 LINE",
-"767 0 LINE"
+"1039 804 LINE",
+"843 804 LINE",
+"843 0 LINE",
+"1037 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"769 967 LINE",
+"1039 967 LINE",
 "320 967 LINE",
 "320 794 LINE",
-"769 794 LINE"
+"1039 794 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"871 664 LINE",
-"993 664 LINE",
-"993 336 LINE",
-"1117 336 LINE",
-"1117 837 LINE",
-"868 837 LINE"
+"1141 664 LINE",
+"1263 664 LINE",
+"1263 336 LINE",
+"1387 336 LINE",
+"1387 837 LINE",
+"1138 837 LINE"
 );
 }
 );
-width = 1317;
+width = 1557;
 }
 );
 unicode = 134A;
 },
 {
 glyphname = "faa-ethiopic";
-lastChange = "2018-11-15 20:43:12 +0000";
+lastChange = "2019-03-19 03:27:35 +0000";
 layers = (
 {
 layerId = "91004FFB-2E8A-4290-ADD0-E71DD0A9BF8D";
@@ -36231,8 +36111,8 @@ paths = (
 closed = 1;
 nodes = (
 "200 330 LINE",
-"1116 330 LINE",
-"1116 503 LINE",
+"1209 330 LINE",
+"1209 503 LINE",
 "394 503 LINE",
 "394 1466 LINE",
 "200 1466 LINE"
@@ -36241,21 +36121,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"877 977 LINE",
-"200 977 LINE",
-"200 804 LINE",
-"683 804 LINE",
-"683 0 LINE",
-"877 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"440 0 LINE",
-"877 0 LINE",
-"877 139 LINE",
-"440 139 LINE"
+"1041 1067 LINE",
+"387 1067 LINE",
+"387 894 LINE",
+"870 894 LINE",
+"663 10 LINE",
+"849 10 LINE"
 );
 }
 );
