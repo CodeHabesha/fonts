@@ -110,20 +110,9 @@ DisplayStrings = (
 "/_part.ha/haa-ethiopic",
 "/ha-ethiopic",
 "/hi-ethiopic",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
 "/ha-ethiopic",
 "/hee-ethiopic",
 "/hoa-ethiopic",
-"",
-"",
 "/hu-ethiopic",
 "/lu-ethiopic",
 "/li-ethiopic",
@@ -251,25 +240,12 @@ Z,
 "9",
 "/ha-ethiopic.001",
 "/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
-"/ha-ethiopic.001",
 "/hu-ethiopic.001/hi-ethiopic.001/haa-ethiopic.001/hee-ethiopic.001/he-ethiopic.001/ho-ethiopic.001/hoa-ethiopic.001",
 "/hi-ethiopic.001",
 "/haa-ethiopic.001",
 "/hee-ethiopic.001",
 "/he-ethiopic.001",
-"/ha-ethiopic.001",
 "/hu-ethiopic.001",
-"/hi-ethiopic.001",
-"/haa-ethiopic.001",
-"/hee-ethiopic.001",
 "/laa-ethiopic.001",
 "/lee-ethiopic.001",
 "/mi-ethiopic.001",
@@ -277,12 +253,6 @@ Z,
 "/hhaa-ethiopic.001",
 "/hho-ethiopic.001",
 "/lwa-ethiopic.001",
-"/ha-ethiopic.001",
-"/maa-ethiopic.001",
-"/hhaa-ethiopic.001",
-"/mi-ethiopic.001",
-"/hhwa-ethiopic.001",
-"/mi-ethiopic.001",
 "/maa-ethiopic.001",
 "/mee-ethiopic.001",
 "/me-ethiopic.001",
@@ -299,20 +269,13 @@ Z,
 "/saa-ethiopic.001",
 "/see-ethiopic.001",
 "/so-ethiopic.001",
-"/he-ethiopic.001",
 "/rwa-ethiopic.001",
 "/sa-ethiopic.001",
 "/su-ethiopic.001",
-"/si-ethiopic.001",
-"/saa-ethiopic.001",
-"/see-ethiopic.001",
 "/se-ethiopic.001",
-"/so-ethiopic.001",
 "/swa-ethiopic.001",
 "/sha-ethiopic.001",
 "/shu-ethiopic.001",
-"/shi-ethiopic.001",
-"/shaa-ethiopic.001",
 "/shi-ethiopic.001",
 "/shaa-ethiopic.001",
 "/shee-ethiopic.001",
@@ -328,7 +291,6 @@ Z,
 "/qee-ethiopic.001",
 "/qe-ethiopic.001",
 "/qo-ethiopic.001",
-"/qoa-ethiopic.001",
 "/qwaa-ethiopic.001",
 "/bi-ethiopic.001",
 "/baa-ethiopic.001",
@@ -359,25 +321,15 @@ Z,
 "/xa-ethiopic.001",
 "/xu-ethiopic.001",
 "/xi-ethiopic.001",
-"/xa-ethiopic.001",
-"/ca-ethiopic.001",
 "/va-ethiopic.001",
-"/to-ethiopic.001",
-"/xi-ethiopic.001",
 "/xaa-ethiopic.001",
-"/ha-ethiopic.001",
-"/laa-ethiopic.001",
 "/hoa-ethiopic.001",
 "/ho-ethiopic.001",
-"/hoa-ethiopic.001",
 "/la-ethiopic.001",
 "/lu-ethiopic.001",
 "/li-ethiopic.001",
-"/laa-ethiopic.001",
-"/lee-ethiopic.001",
 "/le-ethiopic.001",
 "/lo-ethiopic.001",
-"/lwa-ethiopic.001",
 "/hha-ethiopic.001",
 "/hhu-ethiopic.001",
 "/hhi-ethiopic.001",
@@ -390,7 +342,6 @@ Z,
 "/xwaa-ethiopic.001",
 "/na-ethiopic.001",
 "/_part.hoo/nu-ethiopic.001",
-"/nu-ethiopic.001",
 "/nu-ethiopic.001",
 "/nu-ethiopic.001",
 "/ni-ethiopic.001",
@@ -456,15 +407,10 @@ Z,
 "/zhee-ethiopic.001",
 "/zhaa-ethiopic.001",
 "/zo-ethiopic.001",
-"/ze-ethiopic.001",
-"/zo-ethiopic.001",
 "/zwa-ethiopic.001",
 "/zha-ethiopic.001",
 "/zhu-ethiopic.001",
 "/zhi-ethiopic.001",
-"/zhaa-ethiopic.001",
-"/zhee-ethiopic.001",
-"/zhe-ethiopic.001",
 "/zho-ethiopic.001",
 "/zhwa-ethiopic.001",
 "/di-ethiopic.001",
@@ -501,7 +447,6 @@ Z,
 "/tzee-ethiopic.001",
 "/tzo-ethiopic.001",
 "/tze-ethiopic.001",
-"/tzo-ethiopic.001",
 "/tzoa-ethiopic.001",
 "/fu-ethiopic.001",
 "/faa-ethiopic.001",
@@ -514,7 +459,20 @@ Z,
 "/pe-ethiopic.001",
 "/rya-ethiopic.001",
 "/mya-ethiopic.001",
-"/fya-ethiopic.001"
+"/fya-ethiopic.001",
+"/_part.hu",
+"/_part.hoo",
+"/nyu-ethiopic",
+"/yu-ethiopic",
+"/yi-ethiopic",
+"/du-ethiopic",
+"/di-ethiopic",
+"/ddu-ethiopic",
+"/ju-ethiopic",
+"/phu-ethiopic",
+"/tsu-ethiopic",
+"/phe-ethiopic",
+"/ha-ethiopic/hu-ethiopic/hi-ethiopic/haa-ethiopic/hee-ethiopic/he-ethiopic/ho-ethiopic/hoa-ethiopic/la-ethiopic/lu-ethiopic/li-ethiopic/laa-ethiopic/lee-ethiopic/le-ethiopic/lo-ethiopic/lwa-ethiopic/hha-ethiopic/hhu-ethiopic/hhi-ethiopic/hhaa-ethiopic/hhee-ethiopic/hhe-ethiopic/hho-ethiopic/hhwa-ethiopic/ma-ethiopic/mu-ethiopic/mi-ethiopic/maa-ethiopic/mee-ethiopic/me-ethiopic/mo-ethiopic/mwa-ethiopic/sza-ethiopic/szu-ethiopic/szi-ethiopic/szaa-ethiopic/szee-ethiopic/sze-ethiopic/szo-ethiopic/szwa-ethiopic/ra-ethiopic/ru-ethiopic/ri-ethiopic/raa-ethiopic/ree-ethiopic/re-ethiopic/ro-ethiopic/rwa-ethiopic/sa-ethiopic/su-ethiopic/si-ethiopic/saa-ethiopic/see-ethiopic/se-ethiopic/so-ethiopic/swa-ethiopic/sha-ethiopic/shu-ethiopic/shi-ethiopic/shaa-ethiopic/shee-ethiopic/she-ethiopic/sho-ethiopic/shwa-ethiopic/qa-ethiopic/qu-ethiopic/qi-ethiopic/qaa-ethiopic/qee-ethiopic/qe-ethiopic/qo-ethiopic/qoa-ethiopic/qwaa-ethiopic/ba-ethiopic/bu-ethiopic/bi-ethiopic/baa-ethiopic/bee-ethiopic/be-ethiopic/bo-ethiopic/bwa-ethiopic/va-ethiopic/vu-ethiopic/vi-ethiopic/vaa-ethiopic/vee-ethiopic/ve-ethiopic/vo-ethiopic/vwa-ethiopic/ta-ethiopic/tu-ethiopic/ti-ethiopic/taa-ethiopic/tee-ethiopic/te-ethiopic/to-ethiopic/twa-ethiopic/ca-ethiopic/cu-ethiopic/ci-ethiopic/caa-ethiopic/cee-ethiopic/ce-ethiopic/co-ethiopic/cwa-ethiopic/xa-ethiopic/xu-ethiopic/xi-ethiopic/xaa-ethiopic/xee-ethiopic/xe-ethiopic/xo-ethiopic/xoa-ethiopic/xwa-ethiopic/xwaa-ethiopic/na-ethiopic/nu-ethiopic/ni-ethiopic/naa-ethiopic/nee-ethiopic/ne-ethiopic/no-ethiopic/nwa-ethiopic/nya-ethiopic/nyu-ethiopic/nyi-ethiopic/nyaa-ethiopic/nyee-ethiopic/nye-ethiopic/nyo-ethiopic/nywa-ethiopic/aGlottal-ethiopic/uGlottal-ethiopic/iGlottal-ethiopic/aaGlottal-ethiopic/eeGlottal-ethiopic/eGlottal-ethiopic/oGlottal-ethiopic/waGlottal-ethiopic/ka-ethiopic/ku-ethiopic/ki-ethiopic/kaa-ethiopic/kee-ethiopic/ke-ethiopic/ko-ethiopic/kwaa-ethiopic/kxa-ethiopic/kxu-ethiopic/kxi-ethiopic/kxaa-ethiopic/kxee-ethiopic/kxe-ethiopic/kxo-ethiopic/kxwaa-ethiopic/wa-ethiopic/wu-ethiopic/wi-ethiopic/waa-ethiopic/wee-ethiopic/we-ethiopic/wo-ethiopic/woa-ethiopic/aPharyngeal-ethiopic/uPharyngeal-ethiopic/iPharyngeal-ethiopic/aaPharyngeal-ethiopic/eePharyngeal-ethiopic/ePharyngeal-ethiopic/oPharyngeal-ethiopic/za-ethiopic/zu-ethiopic/zi-ethiopic/zaa-ethiopic/zee-ethiopic/ze-ethiopic/zo-ethiopic/zwa-ethiopic/zha-ethiopic/zhu-ethiopic/zhi-ethiopic/zhaa-ethiopic/zhee-ethiopic/zhe-ethiopic/zho-ethiopic/zhwa-ethiopic/ya-ethiopic/yu-ethiopic/yi-ethiopic/yaa-ethiopic/yee-ethiopic/ye-ethiopic/yo-ethiopic/yoa-ethiopic/da-ethiopic/du-ethiopic/di-ethiopic/daa-ethiopic/dee-ethiopic/de-ethiopic/do-ethiopic/dwa-ethiopic/dda-ethiopic/ddu-ethiopic/ddi-ethiopic/ddaa-ethiopic/ddee-ethiopic/dde-ethiopic/ddo-ethiopic/ddwa-ethiopic/ja-ethiopic/ju-ethiopic/ji-ethiopic/jaa-ethiopic/jee-ethiopic/je-ethiopic/jo-ethiopic/jwa-ethiopic/ga-ethiopic/gu-ethiopic/gi-ethiopic/gaa-ethiopic/gee-ethiopic/ge-ethiopic/go-ethiopic/goa-ethiopic/gwaa-ethiopic/gga-ethiopic/ggu-ethiopic/ggi-ethiopic/ggaa-ethiopic/ggee-ethiopic/gge-ethiopic/ggo-ethiopic/ggwaa-ethiopic/tha-ethiopic/thu-ethiopic/thi-ethiopic/thaa-ethiopic/thee-ethiopic/the-ethiopic/tho-ethiopic/thwa-ethiopic/cha-ethiopic/chu-ethiopic/chi-ethiopic/chaa-ethiopic/chee-ethiopic/che-ethiopic/cho-ethiopic/chwa-ethiopic/pha-ethiopic/phu-ethiopic/phi-ethiopic/phaa-ethiopic/phee-ethiopic/phe-ethiopic/pho-ethiopic/phwa-ethiopic/tsa-ethiopic/tsu-ethiopic/tsi-ethiopic/tsaa-ethiopic/tsee-ethiopic/tse-ethiopic/tso-ethiopic/tswa-ethiopic/tza-ethiopic/tzu-ethiopic/tzi-ethiopic/tzaa-ethiopic/tzee-ethiopic/tze-ethiopic/tzo-ethiopic/tzoa-ethiopic/fa-ethiopic/fu-ethiopic/fi-ethiopic/faa-ethiopic/fee-ethiopic/fe-ethiopic/fo-ethiopic/fwa-ethiopic/pa-ethiopic/pu-ethiopic/pi-ethiopic/paa-ethiopic/pee-ethiopic/pe-ethiopic/po-ethiopic/pwa-ethiopic/rya-ethiopic/mya-ethiopic/fya-ethiopic"
 );
 copyright = "Copyright © 2018 by Fasil Fikreab. All rights reserved.";
 customParameters = (
@@ -3493,7 +3451,7 @@ unicode = 1200;
 },
 {
 glyphname = "hu-ethiopic";
-lastChange = "2019-02-18 23:06:09 +0000";
+lastChange = "2019-03-19 23:41:40 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -3538,20 +3496,20 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"563 306 OFFCURVE",
-"554 324 OFFCURVE",
-"543 324 CURVE SMOOTH",
-"463 324 LINE",
-"463 243 LINE",
-"543 243 LINE SMOOTH",
-"554 243 OFFCURVE",
-"563 261 OFFCURVE",
-"563 282 CURVE SMOOTH",
-"563 284 LINE SMOOTH"
+"591 306 OFFCURVE",
+"582 324 OFFCURVE",
+"571 324 CURVE SMOOTH",
+"491 324 LINE",
+"491 243 LINE",
+"571 243 LINE SMOOTH",
+"582 243 OFFCURVE",
+"591 261 OFFCURVE",
+"591 282 CURVE SMOOTH",
+"591 284 LINE SMOOTH"
 );
 }
 );
-width = 579;
+width = 633;
 }
 );
 unicode = 1201;
@@ -4063,7 +4021,7 @@ unicode = 1208;
 },
 {
 glyphname = "lu-ethiopic";
-lastChange = "2019-02-18 23:06:47 +0000";
+lastChange = "2019-03-19 23:41:17 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -4123,27 +4081,27 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"563 306 OFFCURVE",
-"554 324 OFFCURVE",
-"543 324 CURVE SMOOTH",
-"463 324 LINE",
-"463 243 LINE",
-"543 243 LINE SMOOTH",
-"554 243 OFFCURVE",
-"563 261 OFFCURVE",
-"563 282 CURVE SMOOTH",
-"563 284 LINE SMOOTH"
+"581 306 OFFCURVE",
+"572 324 OFFCURVE",
+"561 324 CURVE SMOOTH",
+"481 324 LINE",
+"481 243 LINE",
+"561 243 LINE SMOOTH",
+"572 243 OFFCURVE",
+"581 261 OFFCURVE",
+"581 282 CURVE SMOOTH",
+"581 284 LINE SMOOTH"
 );
 }
 );
-width = 579;
+width = 623;
 }
 );
 unicode = 1209;
 },
 {
 glyphname = "li-ethiopic";
-lastChange = "2019-02-18 23:09:45 +0000";
+lastChange = "2019-03-19 23:41:49 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -4203,20 +4161,20 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"563 63 OFFCURVE",
-"554 81 OFFCURVE",
-"543 81 CURVE SMOOTH",
-"463 81 LINE",
-"463 0 LINE",
-"543 0 LINE SMOOTH",
-"554 0 OFFCURVE",
-"563 18 OFFCURVE",
-"563 39 CURVE SMOOTH",
-"563 41 LINE SMOOTH"
+"593 63 OFFCURVE",
+"584 81 OFFCURVE",
+"573 81 CURVE SMOOTH",
+"493 81 LINE",
+"493 0 LINE",
+"573 0 LINE SMOOTH",
+"584 0 OFFCURVE",
+"593 18 OFFCURVE",
+"593 39 CURVE SMOOTH",
+"593 41 LINE SMOOTH"
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 120A;
@@ -4751,7 +4709,7 @@ unicode = 1210;
 },
 {
 glyphname = "hhu-ethiopic";
-lastChange = "2019-02-18 23:13:19 +0000";
+lastChange = "2019-03-19 23:41:31 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -4827,27 +4785,27 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"563 306 OFFCURVE",
-"554 324 OFFCURVE",
-"543 324 CURVE SMOOTH",
-"463 324 LINE",
-"463 243 LINE",
-"543 243 LINE SMOOTH",
-"554 243 OFFCURVE",
-"563 261 OFFCURVE",
-"563 282 CURVE SMOOTH",
-"563 284 LINE SMOOTH"
+"612 306 OFFCURVE",
+"603 324 OFFCURVE",
+"592 324 CURVE SMOOTH",
+"512 324 LINE",
+"512 243 LINE",
+"592 243 LINE SMOOTH",
+"603 243 OFFCURVE",
+"612 261 OFFCURVE",
+"612 282 CURVE SMOOTH",
+"612 284 LINE SMOOTH"
 );
 }
 );
-width = 597;
+width = 657;
 }
 );
 unicode = 1211;
 },
 {
 glyphname = "hhi-ethiopic";
-lastChange = "2019-02-18 23:13:49 +0000";
+lastChange = "2019-03-19 23:42:13 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -4923,20 +4881,20 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"563 63 OFFCURVE",
-"554 81 OFFCURVE",
-"543 81 CURVE SMOOTH",
-"463 81 LINE",
-"463 0 LINE",
-"543 0 LINE SMOOTH",
-"554 0 OFFCURVE",
-"563 18 OFFCURVE",
-"563 39 CURVE SMOOTH",
-"563 41 LINE SMOOTH"
+"603 63 OFFCURVE",
+"594 81 OFFCURVE",
+"583 81 CURVE SMOOTH",
+"503 81 LINE",
+"503 0 LINE",
+"583 0 LINE SMOOTH",
+"594 0 OFFCURVE",
+"603 18 OFFCURVE",
+"603 39 CURVE SMOOTH",
+"603 41 LINE SMOOTH"
 );
 }
 );
-width = 597;
+width = 649;
 }
 );
 unicode = 1212;
@@ -5498,7 +5456,7 @@ unicode = 1218;
 },
 {
 glyphname = "mu-ethiopic";
-lastChange = "2019-02-18 23:16:41 +0000";
+lastChange = "2019-03-19 23:43:00 +0000";
 layers = (
 {
 components = (
@@ -5571,7 +5529,7 @@ nodes = (
 );
 }
 );
-width = 659;
+width = 717;
 }
 );
 unicode = 1219;
@@ -6206,7 +6164,7 @@ unicode = 1220;
 },
 {
 glyphname = "szu-ethiopic";
-lastChange = "2019-02-18 23:18:23 +0000";
+lastChange = "2019-03-19 23:43:09 +0000";
 layers = (
 {
 components = (
@@ -6271,7 +6229,7 @@ nodes = (
 );
 }
 );
-width = 597;
+width = 648;
 }
 );
 unicode = 1221;
@@ -7318,7 +7276,7 @@ unicode = 1230;
 },
 {
 glyphname = "su-ethiopic";
-lastChange = "2019-02-18 23:24:11 +0000";
+lastChange = "2019-03-19 23:43:17 +0000";
 layers = (
 {
 components = (
@@ -7396,7 +7354,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 1231;
@@ -8050,7 +8008,7 @@ unicode = 1238;
 },
 {
 glyphname = "shu-ethiopic";
-lastChange = "2019-02-18 23:25:09 +0000";
+lastChange = "2019-03-19 23:43:21 +0000";
 layers = (
 {
 components = (
@@ -8137,7 +8095,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 1239;
@@ -8844,7 +8802,7 @@ unicode = 1240;
 },
 {
 glyphname = "qu-ethiopic";
-lastChange = "2019-02-18 23:26:14 +0000";
+lastChange = "2019-03-19 23:43:31 +0000";
 layers = (
 {
 components = (
@@ -8916,7 +8874,7 @@ nodes = (
 );
 }
 );
-width = 537;
+width = 589;
 }
 );
 unicode = 1241;
@@ -9706,7 +9664,7 @@ unicode = 1260;
 },
 {
 glyphname = "bu-ethiopic";
-lastChange = "2019-02-18 23:27:07 +0000";
+lastChange = "2019-03-19 23:43:37 +0000";
 layers = (
 {
 components = (
@@ -9754,7 +9712,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 1261;
@@ -10257,7 +10215,7 @@ unicode = 1268;
 },
 {
 glyphname = "vu-ethiopic";
-lastChange = "2019-02-18 23:28:04 +0000";
+lastChange = "2019-03-19 23:43:42 +0000";
 layers = (
 {
 components = (
@@ -10324,7 +10282,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 1269;
@@ -12466,7 +12424,7 @@ unicode = 1280;
 },
 {
 glyphname = "xu-ethiopic";
-lastChange = "2019-02-18 23:30:26 +0000";
+lastChange = "2019-03-19 23:43:51 +0000";
 layers = (
 {
 components = (
@@ -12527,7 +12485,7 @@ nodes = (
 );
 }
 );
-width = 507;
+width = 569;
 }
 );
 unicode = 1281;
@@ -13907,7 +13865,7 @@ unicode = 1298;
 },
 {
 glyphname = "nyu-ethiopic";
-lastChange = "2019-02-18 23:32:46 +0000";
+lastChange = "2019-03-19 23:44:00 +0000";
 layers = (
 {
 components = (
@@ -13975,7 +13933,7 @@ nodes = (
 );
 }
 );
-width = 479;
+width = 509;
 }
 );
 unicode = 1299;
@@ -14679,7 +14637,7 @@ unicode = 12A0;
 },
 {
 glyphname = "uGlottal-ethiopic";
-lastChange = "2019-02-18 23:33:25 +0000";
+lastChange = "2019-03-19 23:44:13 +0000";
 layers = (
 {
 components = (
@@ -14757,7 +14715,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 12A1;
@@ -15405,7 +15363,7 @@ unicode = 12A8;
 },
 {
 glyphname = "ku-ethiopic";
-lastChange = "2019-02-18 23:34:04 +0000";
+lastChange = "2019-03-19 23:44:17 +0000";
 layers = (
 {
 components = (
@@ -15468,7 +15426,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 640;
 }
 );
 unicode = 12A9;
@@ -16033,7 +15991,7 @@ unicode = 12B8;
 },
 {
 glyphname = "kxu-ethiopic";
-lastChange = "2019-02-18 23:35:26 +0000";
+lastChange = "2019-03-19 23:44:20 +0000";
 layers = (
 {
 components = (
@@ -16115,7 +16073,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 640;
 }
 );
 unicode = 12B9;
@@ -17196,7 +17154,7 @@ unicode = 12CC;
 },
 {
 glyphname = "we-ethiopic";
-lastChange = "2019-02-18 23:36:33 +0000";
+lastChange = "2019-03-19 23:44:27 +0000";
 layers = (
 {
 components = (
@@ -17271,7 +17229,7 @@ nodes = (
 );
 }
 );
-width = 639;
+width = 677;
 }
 );
 unicode = 12CD;
@@ -17539,7 +17497,7 @@ unicode = 12D0;
 },
 {
 glyphname = "uPharyngeal-ethiopic";
-lastChange = "2019-02-18 23:37:06 +0000";
+lastChange = "2019-03-19 23:44:31 +0000";
 layers = (
 {
 components = (
@@ -17592,7 +17550,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 627;
 }
 );
 unicode = 12D1;
@@ -18052,7 +18010,7 @@ unicode = 12D8;
 },
 {
 glyphname = "zu-ethiopic";
-lastChange = "2019-02-19 04:08:44 +0000";
+lastChange = "2019-03-19 23:44:36 +0000";
 layers = (
 {
 components = (
@@ -18116,7 +18074,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 627;
 }
 );
 unicode = 12D9;
@@ -18712,7 +18670,7 @@ unicode = 12E0;
 },
 {
 glyphname = "zhu-ethiopic";
-lastChange = "2019-02-19 04:09:42 +0000";
+lastChange = "2019-03-19 23:44:40 +0000";
 layers = (
 {
 components = (
@@ -18794,7 +18752,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 12E1;
@@ -19492,7 +19450,7 @@ unicode = 12E8;
 },
 {
 glyphname = "yu-ethiopic";
-lastChange = "2018-12-02 07:01:18 +0000";
+lastChange = "2019-03-19 23:44:49 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -19574,16 +19532,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"282 144 OFFCURVE",
-"273 153 OFFCURVE",
-"262 153 CURVE SMOOTH",
+"342 144 OFFCURVE",
+"333 153 OFFCURVE",
+"322 153 CURVE SMOOTH",
 "182 153 LINE",
 "182 112 LINE",
-"262 112 LINE SMOOTH",
-"273 112 OFFCURVE",
-"282 121 OFFCURVE",
-"282 132 CURVE SMOOTH",
-"282 133 LINE SMOOTH"
+"322 112 LINE SMOOTH",
+"333 112 OFFCURVE",
+"342 121 OFFCURVE",
+"342 132 CURVE SMOOTH",
+"342 133 LINE SMOOTH"
 );
 }
 );
@@ -19594,7 +19552,7 @@ unicode = 12E9;
 },
 {
 glyphname = "yi-ethiopic";
-lastChange = "2018-12-02 07:01:18 +0000";
+lastChange = "2019-03-19 23:45:00 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -19603,14 +19561,14 @@ paths = (
 closed = 1;
 nodes = (
 "210 52 LINE",
-"320 52 LINE SMOOTH",
-"331 52 OFFCURVE",
-"340 61 OFFCURVE",
-"340 72 CURVE SMOOTH",
-"340 73 LINE SMOOTH",
-"340 84 OFFCURVE",
-"331 93 OFFCURVE",
-"320 93 CURVE SMOOTH",
+"370 52 LINE SMOOTH",
+"381 52 OFFCURVE",
+"390 61 OFFCURVE",
+"390 72 CURVE SMOOTH",
+"390 73 LINE SMOOTH",
+"390 84 OFFCURVE",
+"381 93 OFFCURVE",
+"370 93 CURVE SMOOTH",
 "210 93 LINE"
 );
 },
@@ -20149,17 +20107,17 @@ unicode = 12EE;
 },
 {
 glyphname = "yoa-ethiopic";
-lastChange = "2019-02-18 23:42:45 +0000";
+lastChange = "2019-03-19 23:45:12 +0000";
 layers = (
 {
 components = (
 {
 name = _part.hoo;
-transform = "{1, 0, 0, 1, 0, 80}";
+transform = "{1, 0, 0, 1, 34, 80}";
 },
 {
 name = _part.hoo;
-transform = "{-1, 0, 0, 1, 586, 0}";
+transform = "{-1, 0, 0, 1, 620, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -20167,79 +20125,79 @@ paths = (
 {
 closed = 1;
 nodes = (
-"409 269 OFFCURVE",
-"418 260 OFFCURVE",
-"429 260 CURVE SMOOTH",
-"470 260 LINE SMOOTH",
-"481 260 OFFCURVE",
-"490 269 OFFCURVE",
-"490 280 CURVE SMOOTH",
-"490 449 LINE SMOOTH",
-"490 478 OFFCURVE",
-"468 500 OFFCURVE",
-"439 500 CURVE SMOOTH",
-"140 500 LINE SMOOTH",
-"111 500 OFFCURVE",
-"89 478 OFFCURVE",
-"89 449 CURVE SMOOTH",
-"89 20 LINE SMOOTH",
-"89 9 OFFCURVE",
-"98 0 OFFCURVE",
-"109 0 CURVE SMOOTH",
-"150 0 LINE SMOOTH",
-"161 0 OFFCURVE",
-"170 9 OFFCURVE",
-"170 20 CURVE SMOOTH",
-"170 439 LINE SMOOTH",
-"170 450 OFFCURVE",
-"179 459 OFFCURVE",
-"190 459 CURVE SMOOTH",
-"389 459 LINE SMOOTH",
-"400 459 OFFCURVE",
-"409 450 OFFCURVE",
-"409 439 CURVE SMOOTH",
-"409 280 LINE SMOOTH"
+"443 269 OFFCURVE",
+"452 260 OFFCURVE",
+"463 260 CURVE SMOOTH",
+"504 260 LINE SMOOTH",
+"515 260 OFFCURVE",
+"524 269 OFFCURVE",
+"524 280 CURVE SMOOTH",
+"524 449 LINE SMOOTH",
+"524 478 OFFCURVE",
+"502 500 OFFCURVE",
+"473 500 CURVE SMOOTH",
+"174 500 LINE SMOOTH",
+"145 500 OFFCURVE",
+"123 478 OFFCURVE",
+"123 449 CURVE SMOOTH",
+"123 20 LINE SMOOTH",
+"123 9 OFFCURVE",
+"132 0 OFFCURVE",
+"143 0 CURVE SMOOTH",
+"184 0 LINE SMOOTH",
+"195 0 OFFCURVE",
+"204 9 OFFCURVE",
+"204 20 CURVE SMOOTH",
+"204 439 LINE SMOOTH",
+"204 450 OFFCURVE",
+"213 459 OFFCURVE",
+"224 459 CURVE SMOOTH",
+"423 459 LINE SMOOTH",
+"434 459 OFFCURVE",
+"443 450 OFFCURVE",
+"443 439 CURVE SMOOTH",
+"443 280 LINE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"409 251 LINE SMOOTH",
-"409 240 OFFCURVE",
-"400 231 OFFCURVE",
-"389 231 CURVE SMOOTH",
-"190 231 LINE SMOOTH",
-"179 231 OFFCURVE",
-"170 240 OFFCURVE",
-"170 251 CURVE SMOOTH",
-"170 450 LINE SMOOTH",
-"170 461 OFFCURVE",
-"161 470 OFFCURVE",
-"150 470 CURVE SMOOTH",
-"109 470 LINE SMOOTH",
-"98 470 OFFCURVE",
-"89 461 OFFCURVE",
-"89 450 CURVE SMOOTH",
-"89 241 LINE SMOOTH",
-"89 212 OFFCURVE",
-"111 190 OFFCURVE",
-"140 190 CURVE SMOOTH",
-"439 190 LINE SMOOTH",
-"468 190 OFFCURVE",
-"490 212 OFFCURVE",
-"490 241 CURVE SMOOTH",
-"490 450 LINE SMOOTH",
-"490 461 OFFCURVE",
-"481 470 OFFCURVE",
-"470 470 CURVE SMOOTH",
-"429 470 LINE SMOOTH",
-"418 470 OFFCURVE",
-"409 461 OFFCURVE",
-"409 450 CURVE SMOOTH"
+"443 251 LINE SMOOTH",
+"443 240 OFFCURVE",
+"434 231 OFFCURVE",
+"423 231 CURVE SMOOTH",
+"224 231 LINE SMOOTH",
+"213 231 OFFCURVE",
+"204 240 OFFCURVE",
+"204 251 CURVE SMOOTH",
+"204 450 LINE SMOOTH",
+"204 461 OFFCURVE",
+"195 470 OFFCURVE",
+"184 470 CURVE SMOOTH",
+"143 470 LINE SMOOTH",
+"132 470 OFFCURVE",
+"123 461 OFFCURVE",
+"123 450 CURVE SMOOTH",
+"123 241 LINE SMOOTH",
+"123 212 OFFCURVE",
+"145 190 OFFCURVE",
+"174 190 CURVE SMOOTH",
+"473 190 LINE SMOOTH",
+"502 190 OFFCURVE",
+"524 212 OFFCURVE",
+"524 241 CURVE SMOOTH",
+"524 450 LINE SMOOTH",
+"524 461 OFFCURVE",
+"515 470 OFFCURVE",
+"504 470 CURVE SMOOTH",
+"463 470 LINE SMOOTH",
+"452 470 OFFCURVE",
+"443 461 OFFCURVE",
+"443 450 CURVE SMOOTH"
 );
 }
 );
-width = 579;
+width = 651;
 }
 );
 unicode = 12EF;
@@ -20363,7 +20321,7 @@ unicode = 12F0;
 },
 {
 glyphname = "du-ethiopic";
-lastChange = "2018-12-02 07:01:18 +0000";
+lastChange = "2019-03-19 23:45:35 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -20475,20 +20433,20 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"521 136 OFFCURVE",
-"512 145 OFFCURVE",
-"501 145 CURVE SMOOTH",
-"421 145 LINE",
-"421 104 LINE",
-"501 104 LINE SMOOTH",
-"512 104 OFFCURVE",
-"521 113 OFFCURVE",
-"521 124 CURVE SMOOTH",
-"521 125 LINE SMOOTH"
+"561 126 OFFCURVE",
+"552 135 OFFCURVE",
+"541 135 CURVE SMOOTH",
+"421 135 LINE",
+"421 84 LINE",
+"541 84 LINE SMOOTH",
+"552 84 OFFCURVE",
+"561 103 OFFCURVE",
+"561 114 CURVE SMOOTH",
+"561 115 LINE SMOOTH"
 );
 }
 );
-width = 579;
+width = 589;
 }
 );
 unicode = 12F1;
@@ -20910,7 +20868,7 @@ unicode = 12F4;
 },
 {
 glyphname = "de-ethiopic";
-lastChange = "2019-02-18 23:44:01 +0000";
+lastChange = "2019-03-19 23:45:54 +0000";
 layers = (
 {
 components = (
@@ -21026,7 +20984,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 627;
 }
 );
 unicode = 12F5;
@@ -21399,7 +21357,7 @@ unicode = 12F8;
 },
 {
 glyphname = "ddu-ethiopic";
-lastChange = "2018-12-02 07:01:18 +0000";
+lastChange = "2019-03-19 23:46:13 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -21520,16 +21478,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"521 136 OFFCURVE",
-"512 145 OFFCURVE",
-"501 145 CURVE SMOOTH",
-"421 145 LINE",
-"421 104 LINE",
-"501 104 LINE SMOOTH",
-"512 104 OFFCURVE",
-"521 113 OFFCURVE",
-"521 124 CURVE SMOOTH",
-"521 125 LINE SMOOTH"
+"546 124 OFFCURVE",
+"536 135 OFFCURVE",
+"522 135 CURVE SMOOTH",
+"426 135 LINE",
+"426 86 LINE",
+"522 86 LINE SMOOTH",
+"536 86 OFFCURVE",
+"546 97 OFFCURVE",
+"546 110 CURVE SMOOTH",
+"546 111 LINE SMOOTH"
 );
 }
 );
@@ -21958,7 +21916,7 @@ unicode = 12FC;
 },
 {
 glyphname = "dde-ethiopic";
-lastChange = "2019-02-18 23:47:13 +0000";
+lastChange = "2019-03-19 23:45:58 +0000";
 layers = (
 {
 components = (
@@ -22083,7 +22041,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 627;
 }
 );
 unicode = 12FD;
@@ -22483,7 +22441,7 @@ unicode = 1300;
 },
 {
 glyphname = "ju-ethiopic";
-lastChange = "2018-12-02 07:01:18 +0000";
+lastChange = "2019-03-19 23:46:23 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -22613,16 +22571,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"521 136 OFFCURVE",
-"512 145 OFFCURVE",
-"501 145 CURVE SMOOTH",
-"421 145 LINE",
-"421 104 LINE",
-"501 104 LINE SMOOTH",
-"512 104 OFFCURVE",
-"521 113 OFFCURVE",
-"521 124 CURVE SMOOTH",
-"521 125 LINE SMOOTH"
+"558 128 OFFCURVE",
+"546 140 OFFCURVE",
+"531 140 CURVE SMOOTH",
+"424 140 LINE",
+"424 85 LINE",
+"531 85 LINE SMOOTH",
+"546 85 OFFCURVE",
+"558 97 OFFCURVE",
+"558 112 CURVE SMOOTH",
+"558 113 LINE SMOOTH"
 );
 }
 );
@@ -23557,7 +23515,7 @@ unicode = 1308;
 },
 {
 glyphname = "gu-ethiopic";
-lastChange = "2019-02-18 23:50:12 +0000";
+lastChange = "2019-03-19 23:46:34 +0000";
 layers = (
 {
 components = (
@@ -23600,7 +23558,7 @@ nodes = (
 );
 }
 );
-width = 509;
+width = 520;
 }
 );
 unicode = 1309;
@@ -24130,7 +24088,7 @@ unicode = 1318;
 },
 {
 glyphname = "ggu-ethiopic";
-lastChange = "2019-02-18 23:51:44 +0000";
+lastChange = "2019-03-19 23:46:42 +0000";
 layers = (
 {
 components = (
@@ -24201,14 +24159,14 @@ nodes = (
 );
 }
 );
-width = 509;
+width = 547;
 }
 );
 unicode = 1319;
 },
 {
 glyphname = "ggi-ethiopic";
-lastChange = "2019-02-18 23:52:13 +0000";
+lastChange = "2019-03-19 23:46:46 +0000";
 layers = (
 {
 components = (
@@ -24279,7 +24237,7 @@ nodes = (
 );
 }
 );
-width = 497;
+width = 549;
 }
 );
 unicode = 131A;
@@ -24816,7 +24774,7 @@ unicode = 1320;
 },
 {
 glyphname = "thu-ethiopic";
-lastChange = "2019-02-18 23:53:02 +0000";
+lastChange = "2019-03-19 23:46:51 +0000";
 layers = (
 {
 components = (
@@ -24881,7 +24839,7 @@ nodes = (
 );
 }
 );
-width = 597;
+width = 621;
 }
 );
 unicode = 1321;
@@ -25509,7 +25467,7 @@ unicode = 1328;
 },
 {
 glyphname = "chu-ethiopic";
-lastChange = "2019-02-18 23:53:55 +0000";
+lastChange = "2019-03-19 23:46:54 +0000";
 layers = (
 {
 components = (
@@ -25623,7 +25581,7 @@ nodes = (
 );
 }
 );
-width = 597;
+width = 635;
 }
 );
 unicode = 1329;
@@ -26546,7 +26504,7 @@ unicode = 1330;
 },
 {
 glyphname = "phu-ethiopic";
-lastChange = "2019-02-18 23:54:24 +0000";
+lastChange = "2019-03-19 23:47:09 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -26600,16 +26558,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"506 75 OFFCURVE",
-"497 84 OFFCURVE",
-"486 84 CURVE SMOOTH",
-"406 84 LINE",
-"406 43 LINE",
-"486 43 LINE SMOOTH",
-"497 43 OFFCURVE",
-"506 52 OFFCURVE",
-"506 63 CURVE SMOOTH",
-"506 64 LINE SMOOTH"
+"543 109 OFFCURVE",
+"531 121 OFFCURVE",
+"516 121 CURVE SMOOTH",
+"409 121 LINE",
+"409 66 LINE",
+"516 66 LINE SMOOTH",
+"531 66 OFFCURVE",
+"543 78 OFFCURVE",
+"543 93 CURVE SMOOTH",
+"543 94 LINE SMOOTH"
 );
 },
 {
@@ -26647,7 +26605,7 @@ nodes = (
 );
 }
 );
-width = 519;
+width = 567;
 }
 );
 unicode = 1331;
@@ -27006,7 +26964,7 @@ unicode = 1334;
 },
 {
 glyphname = "phe-ethiopic";
-lastChange = "2018-12-02 07:03:49 +0000";
+lastChange = "2019-03-19 23:47:44 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -27060,16 +27018,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"261 343 LINE SMOOTH",
-"261 332 OFFCURVE",
-"270 323 OFFCURVE",
-"281 323 CURVE SMOOTH",
-"361 323 LINE",
-"361 364 LINE",
-"281 364 LINE SMOOTH",
-"270 364 OFFCURVE",
-"261 355 OFFCURVE",
-"261 344 CURVE SMOOTH"
+"548 359 OFFCURVE",
+"536 371 OFFCURVE",
+"521 371 CURVE SMOOTH",
+"414 371 LINE",
+"414 316 LINE",
+"521 316 LINE SMOOTH",
+"536 316 OFFCURVE",
+"548 328 OFFCURVE",
+"548 343 CURVE SMOOTH",
+"548 344 LINE SMOOTH"
 );
 },
 {
@@ -27107,7 +27065,7 @@ nodes = (
 );
 }
 );
-width = 519;
+width = 577;
 }
 );
 unicode = 1335;
@@ -27423,7 +27381,7 @@ unicode = 1338;
 },
 {
 glyphname = "tsu-ethiopic";
-lastChange = "2019-02-18 23:54:45 +0000";
+lastChange = "2019-03-19 23:47:22 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -27468,16 +27426,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"511 75 OFFCURVE",
-"502 84 OFFCURVE",
-"491 84 CURVE SMOOTH",
-"411 84 LINE",
-"411 43 LINE",
-"491 43 LINE SMOOTH",
-"502 43 OFFCURVE",
-"511 52 OFFCURVE",
-"511 63 CURVE SMOOTH",
-"511 64 LINE SMOOTH"
+"538 119 OFFCURVE",
+"526 131 OFFCURVE",
+"511 131 CURVE SMOOTH",
+"404 131 LINE",
+"404 76 LINE",
+"511 76 LINE SMOOTH",
+"526 76 OFFCURVE",
+"538 88 OFFCURVE",
+"538 103 CURVE SMOOTH",
+"538 104 LINE SMOOTH"
 );
 },
 {
@@ -27515,7 +27473,7 @@ nodes = (
 );
 }
 );
-width = 529;
+width = 567;
 }
 );
 unicode = 1339;
@@ -28217,7 +28175,7 @@ unicode = 1340;
 },
 {
 glyphname = "tzu-ethiopic";
-lastChange = "2019-02-18 23:55:22 +0000";
+lastChange = "2019-03-19 23:47:57 +0000";
 layers = (
 {
 components = (
@@ -28279,7 +28237,7 @@ nodes = (
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 unicode = 1341;
@@ -28718,13 +28676,13 @@ unicode = 1346;
 },
 {
 glyphname = "tzoa-ethiopic";
-lastChange = "2019-02-18 23:55:44 +0000";
+lastChange = "2019-03-19 23:48:03 +0000";
 layers = (
 {
 components = (
 {
 name = _part.hoo;
-transform = "{-1, 0, 0, 1, 580, 0}";
+transform = "{-1, 0, 0, 1, 616, 0}";
 }
 );
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -28732,80 +28690,80 @@ paths = (
 {
 closed = 1;
 nodes = (
-"164 341 LINE",
-"164 312 LINE",
-"410 312 LINE",
-"410 341 LINE"
+"200 341 LINE",
+"200 312 LINE",
+"446 312 LINE",
+"446 341 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"130 500 LINE SMOOTH",
-"107 500 OFFCURVE",
-"89 482 OFFCURVE",
-"89 459 CURVE SMOOTH",
-"89 41 LINE SMOOTH",
-"89 18 OFFCURVE",
-"107 0 OFFCURVE",
-"130 0 CURVE SMOOTH",
-"449 0 LINE SMOOTH",
-"472 0 OFFCURVE",
-"490 18 OFFCURVE",
-"490 41 CURVE SMOOTH",
-"490 459 LINE SMOOTH",
-"490 482 OFFCURVE",
-"472 500 OFFCURVE",
-"449 500 CURVE SMOOTH"
+"166 500 LINE SMOOTH",
+"143 500 OFFCURVE",
+"125 482 OFFCURVE",
+"125 459 CURVE SMOOTH",
+"125 41 LINE SMOOTH",
+"125 18 OFFCURVE",
+"143 0 OFFCURVE",
+"166 0 CURVE SMOOTH",
+"485 0 LINE SMOOTH",
+"508 0 OFFCURVE",
+"526 18 OFFCURVE",
+"526 41 CURVE SMOOTH",
+"526 459 LINE SMOOTH",
+"526 482 OFFCURVE",
+"508 500 OFFCURVE",
+"485 500 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"190 41 LINE SMOOTH",
-"179 41 OFFCURVE",
-"170 50 OFFCURVE",
-"170 61 CURVE SMOOTH",
-"170 439 LINE SMOOTH",
-"170 450 OFFCURVE",
-"179 459 OFFCURVE",
-"190 459 CURVE SMOOTH",
-"389 459 LINE SMOOTH",
-"400 459 OFFCURVE",
-"409 450 OFFCURVE",
-"409 439 CURVE SMOOTH",
-"409 61 LINE SMOOTH",
-"409 50 OFFCURVE",
-"400 41 OFFCURVE",
-"389 41 CURVE SMOOTH"
+"226 41 LINE SMOOTH",
+"215 41 OFFCURVE",
+"206 50 OFFCURVE",
+"206 61 CURVE SMOOTH",
+"206 439 LINE SMOOTH",
+"206 450 OFFCURVE",
+"215 459 OFFCURVE",
+"226 459 CURVE SMOOTH",
+"425 459 LINE SMOOTH",
+"436 459 OFFCURVE",
+"445 450 OFFCURVE",
+"445 439 CURVE SMOOTH",
+"445 61 LINE SMOOTH",
+"445 50 OFFCURVE",
+"436 41 OFFCURVE",
+"425 41 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"209 -121 LINE SMOOTH",
-"198 -121 OFFCURVE",
-"189 -130 OFFCURVE",
-"189 -141 CURVE SMOOTH",
-"189 -142 LINE SMOOTH",
-"189 -153 OFFCURVE",
-"198 -162 OFFCURVE",
-"209 -162 CURVE SMOOTH",
-"319 -162 LINE",
-"319 -121 LINE"
+"245 -121 LINE SMOOTH",
+"234 -121 OFFCURVE",
+"225 -130 OFFCURVE",
+"225 -141 CURVE SMOOTH",
+"225 -142 LINE SMOOTH",
+"225 -153 OFFCURVE",
+"234 -162 OFFCURVE",
+"245 -162 CURVE SMOOTH",
+"355 -162 LINE",
+"355 -121 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"279 -162 LINE",
-"320 -162 LINE",
-"320 -20 LINE",
-"279 -21 LINE"
+"315 -162 LINE",
+"356 -162 LINE",
+"356 -20 LINE",
+"315 -21 LINE"
 );
 }
 );
-width = 579;
+width = 615;
 }
 );
 unicode = 1347;
@@ -57813,7 +57771,7 @@ width = 579;
 {
 export = 0;
 glyphname = _part.hoo;
-lastChange = "2019-02-18 23:05:57 +0000";
+lastChange = "2019-03-19 23:42:47 +0000";
 layers = (
 {
 layerId = "A36D14D1-FF07-4574-A62D-30DF65569781";
@@ -57821,20 +57779,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"563 306 OFFCURVE",
-"554 324 OFFCURVE",
-"543 324 CURVE SMOOTH",
-"463 324 LINE",
-"463 243 LINE",
-"543 243 LINE SMOOTH",
-"554 243 OFFCURVE",
-"563 261 OFFCURVE",
-"563 282 CURVE SMOOTH",
-"563 284 LINE SMOOTH"
+"593 306 OFFCURVE",
+"584 324 OFFCURVE",
+"573 324 CURVE SMOOTH",
+"493 324 LINE",
+"493 243 LINE",
+"573 243 LINE SMOOTH",
+"584 243 OFFCURVE",
+"593 261 OFFCURVE",
+"593 282 CURVE SMOOTH",
+"593 284 LINE SMOOTH"
 );
 }
 );
-width = 579;
+width = 637;
 }
 );
 },
